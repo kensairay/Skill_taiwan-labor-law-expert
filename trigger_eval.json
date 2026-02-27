@@ -1,0 +1,17 @@
+[
+  {"query": "最近有個員工一直遲到，我受不了了，可以直接開除他嗎？幫我寫一份分析報告給大老闆。", "should_trigger": true},
+  {"query": "主管想把大家原本週休二日的排班改成有的人休週一週二，這在勞基法上可以嗎？請分析風險。", "should_trigger": true},
+  {"query": "幫我查一下勞動部關於居家辦公出勤紀錄的最新函示，並給出實務建議。", "should_trigger": true},
+  {"query": "我們公司想成立工會，請幫我寫一份符合工會法的程序評估報告。", "should_trigger": true},
+  {"query": "勞資爭議處理法中，關於調解不成立後的訴訟補助有哪些規定？請幫我摘要給人資主管。", "should_trigger": true},
+  {"query": "員工在公司跌倒受傷，這算職災嗎？請依勞基法第59條分析補償責任。", "should_trigger": true},
+  {"query": "幫我寫一段 Python 程式碼，用來計算員工的加班費。", "should_trigger": false},
+  {"query": "請幫我翻譯這份英文合約，內容是關於軟體授權的。", "should_trigger": false},
+  {"query": "如何撰寫一份專業的行銷企劃案？目標對象是 20-30 歲的年輕人。", "should_trigger": false},
+  {"query": "幫我搜尋一下最新的 iPhone 17 傳聞資訊。", "should_trigger": false},
+  {"query": "公司想把原本 18:00 下班改成 18:30，但會提早半小時上班，這樣合法嗎？請寫一份給主管的簡報大綱。", "should_trigger": true},
+  {"query": "勞動事件法第49條提到的定暫時狀態處分到底是什麼意思？對公司有什麼實質影響？", "should_trigger": true},
+  {"query": "我們打算資遣表現不佳的員工，需要提前幾天通報勞工局？請列出相關法規。", "should_trigger": true},
+  {"query": "如何建立一個 React 專案並串接後端 API？", "should_trigger": false},
+  {"query": "幫我寫一封感謝面試官的信，我剛面試完法務助理的職位。", "should_trigger": false}
+]
